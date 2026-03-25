@@ -1,0 +1,12 @@
+yeast_SNF2_06_ReadsPerGene.out.tab
+yeast_SNF2_15_ReadsPerGene.out.tab
+yeast_SNF2_31_ReadsPerGene.out.tab
+yeast_SNF2_33_ReadsPerGene.out.tab
+yeast_SNF2_42_ReadsPerGene.out.tab
+yeast_SNF2_44_ReadsPerGene.out.tab
+yeast_WT_21_ReadsPerGene.out.tab
+yeast_WT_18_ReadsPerGene.out.tab
+yeast_WT_20_ReadsPerGene.out.tab
+yeast_WT_39_ReadsPerGene.out.tab
+yeast_WT_42_ReadsPerGene.out.tab
+yeast_WT_45_ReadsPerGene.out.tab
